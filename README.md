@@ -1,5 +1,4 @@
 # 🎬 **Netflix Movies & TV Shows — Exploratory Data Analysis (EDA)**
---*A data analysis project exploring trends, patterns, and insights from Netflix’s catalog.*
 
 Exploratory Data Analysis of Netflix Movies and TV Shows. Includes data cleaning, trend analysis, visualizations, and insights on content distribution, ratings, genres, and global production patterns.
 
@@ -121,8 +120,3 @@ This EDA reveals strong trends in how Netflix has grown and what type of content
 * Shorter, modern movies
 
 This analysis provides valuable insights for understanding user behavior, content strategy, and OTT trends.
-
----
-
-
-Just tell me what you want!
